@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://avijiipe.github.io/Gpq/sitemap_index.txt
+Sitemap: https://avijiipe.github.io/HDe/sitemap_index.txt
+Sitemap: https://avijiipe.github.io/VhF/sitemap_index.txt
+Sitemap: https://avijiipe.github.io/uKk/sitemap_index.txt
